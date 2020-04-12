@@ -1,0 +1,11 @@
+C:\Users\kunge\source\repos\Clueless\Clueless\bin\Debug\netcoreapp2.2\Clueless.deps.json
+C:\Users\kunge\source\repos\Clueless\Clueless\bin\Debug\netcoreapp2.2\Clueless.runtimeconfig.json
+C:\Users\kunge\source\repos\Clueless\Clueless\bin\Debug\netcoreapp2.2\Clueless.runtimeconfig.dev.json
+C:\Users\kunge\source\repos\Clueless\Clueless\bin\Debug\netcoreapp2.2\Clueless.dll
+C:\Users\kunge\source\repos\Clueless\Clueless\bin\Debug\netcoreapp2.2\Clueless.pdb
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.csprojAssemblyReference.cache
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.csproj.CoreCompileInputs.cache
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.AssemblyInfoInputs.cache
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.AssemblyInfo.cs
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.dll
+C:\Users\kunge\source\repos\Clueless\Clueless\obj\Debug\netcoreapp2.2\Clueless.pdb
